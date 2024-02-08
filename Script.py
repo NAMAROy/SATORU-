@@ -6,10 +6,14 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
+✯ This Bot Owner: <a href='https://t.me/breakballyt2004'>MOVIE CRAZE</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='www.mongodb.com'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Pʀɪᴠᴀᴛᴇ
+✯ Bᴏᴛ made by : <a href='https://t.me/SMKTHEBOTZ'>SMKTHEBOTZ</a>
+✯ Bᴏᴛ Owner: <a href='https://t.me/MADARA_UCHIHA_FT_SMK'>⚡️ᴵᴬᴹ ➳M𝐀𝔻𝐀Ŕ𝙰➳⚡️</a>
+✯ Buy: <a href='https://t.me/FilesDatabase9'>Buy Database and Bot</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>
