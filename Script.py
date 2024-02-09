@@ -98,7 +98,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>397124</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>276</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>32</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>234.69 MB<</code>
+★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>234.69 MB</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>277.31 MB</code>
 </b>
 •❅─────✧❅✦❅✧─────❅•"""
