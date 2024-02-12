@@ -104,8 +104,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 •❅─────✧❅✦❅✧─────❅•"""
 
     LOG_TEXT_G = """#NewGroup
-Gʀᴏᴜᴘ = {}(<code>{}</code>)
-Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
+Gʀᴏᴜᴘ = {}(<code>32</code>)
+Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>124</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
     LOG_TEXT_P = """#NewUser
