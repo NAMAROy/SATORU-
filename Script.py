@@ -95,11 +95,11 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
     STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟
-★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>397124</code>
-★ Tᴏᴛᴀʟ Usᴇʀs: <code>278</code>
+★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>97124</code>
+★ Tᴏᴛᴀʟ Usᴇʀs: <code>124</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>32</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>234.69 MB</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>277.31 MB</code>
+★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>92.53 MB</code>
+★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>419.47 MB</code>
 </b>
 •❅─────✧❅✦❅✧─────❅•"""
 
